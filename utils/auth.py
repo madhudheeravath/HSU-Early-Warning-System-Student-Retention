@@ -171,9 +171,21 @@ def authenticate_user(email, password):
                 cursor.execute("UPDATE users SET last_login = ? WHERE user_id = ?", 
                              (datetime.now(), user_id))
                 conn.commit()
+                
+                # For students, try to get student_id from CSV data
+                student_id = None
+                if role == 'student':
+                    try:
+                        students = load_students()
+                        student_match = students[students['Email'].str.lower() == db_email.lower()]
+                        if not student_match.empty:
+                            student_id = int(student_match.iloc[0]['StudentID'])
+                    except Exception as e:
+                        print(f"Could not load student_id: {e}")
+                
                 conn.close()
                 
-                return {
+                result = {
                     'user_id': user_id,
                     'email': db_email,
                     'role': role,
@@ -181,6 +193,12 @@ def authenticate_user(email, password):
                     'first_name': first_name,
                     'last_name': last_name
                 }
+                
+                # Add student_id if found
+                if student_id:
+                    result['student_id'] = student_id
+                
+                return result
         
         conn.close()
     

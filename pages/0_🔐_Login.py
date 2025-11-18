@@ -94,6 +94,10 @@ with col2:
                     st.session_state["role"] = user['role']
                     st.session_state["name"] = user['name']
                     
+                    # For students, set student_id if available
+                    if user['role'] == 'student' and 'student_id' in user:
+                        st.session_state["student_id"] = user['student_id']
+                    
                     st.success(f"✅ Welcome, {user['name']}!")
                     
                     # Redirect based on role
