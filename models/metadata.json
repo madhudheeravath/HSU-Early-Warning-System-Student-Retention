@@ -1,0 +1,8 @@
+{
+  "timestamp": "2025-11-08T13:28:12.313434",
+  "num_features": 69,
+  "models": [
+    "random_forest"
+  ],
+  "version": "1.0"
+}

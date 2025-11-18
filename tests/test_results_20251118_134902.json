@@ -1,0 +1,124 @@
+{
+  "test_metadata": {
+    "test_date": "2025-11-18T13:49:02.276806",
+    "total_profiles": 6,
+    "database_path": "database/hsu_database.db"
+  },
+  "test_results": [
+    {
+      "profile_name": "High Risk - Academic Struggling",
+      "banner_id": "B00TEST001",
+      "student_id": 9927,
+      "risk_level": "High",
+      "warnings_generated": 6,
+      "warning_types": [
+        "Academic Probation",
+        "High Credit Deficit",
+        "Severe Attendance",
+        "Low Engagement",
+        "Financial Aid Risk",
+        "First-Gen Support Needed"
+      ],
+      "risk_scores": {
+        "overall": 0.4041666666666667,
+        "academic": 0.3333333333333333,
+        "engagement": 0.325,
+        "financial": 0.7
+      },
+      "timestamp": "2025-11-18T13:49:02.198989"
+    },
+    {
+      "profile_name": "Medium Risk - Attendance Issues",
+      "banner_id": "B00TEST002",
+      "student_id": 9928,
+      "risk_level": "Medium",
+      "warnings_generated": 2,
+      "warning_types": [
+        "GPA Watch",
+        "Attendance Warning"
+      ],
+      "risk_scores": {
+        "overall": 0.09700000000000003,
+        "academic": 0.04000000000000003,
+        "engagement": 0.19000000000000006,
+        "financial": 0.1
+      },
+      "timestamp": "2025-11-18T13:49:02.212726"
+    },
+    {
+      "profile_name": "Low Risk - Good Standing",
+      "banner_id": "B00TEST003",
+      "student_id": 9929,
+      "risk_level": "Low",
+      "warnings_generated": 0,
+      "warning_types": [],
+      "risk_scores": {
+        "overall": 0.020000000000000004,
+        "academic": 0.0,
+        "engagement": 0.0,
+        "financial": 0.1
+      },
+      "timestamp": "2025-11-18T13:49:02.217244"
+    },
+    {
+      "profile_name": "High Risk - Financial & Engagement",
+      "banner_id": "B00TEST004",
+      "student_id": 9930,
+      "risk_level": "High",
+      "warnings_generated": 5,
+      "warning_types": [
+        "Low GPA",
+        "Attendance Warning",
+        "Very Low Engagement",
+        "Financial Aid Risk",
+        "First-Gen Support Needed"
+      ],
+      "risk_scores": {
+        "overall": 0.33833333333333326,
+        "academic": 0.18666666666666662,
+        "engagement": 0.35000000000000003,
+        "financial": 0.7
+      },
+      "timestamp": "2025-11-18T13:49:02.239684"
+    },
+    {
+      "profile_name": "Medium Risk - Declining Performance",
+      "banner_id": "B00TEST005",
+      "student_id": 9931,
+      "risk_level": "Medium",
+      "warnings_generated": 1,
+      "warning_types": [
+        "GPA Watch"
+      ],
+      "risk_scores": {
+        "overall": 0.14972222222222223,
+        "academic": 0.10444444444444446,
+        "engagement": 0.125,
+        "financial": 0.3
+      },
+      "timestamp": "2025-11-18T13:49:02.249094"
+    },
+    {
+      "profile_name": "Critical Risk - Multiple Issues",
+      "banner_id": "B00TEST006",
+      "student_id": 9932,
+      "risk_level": "Critical",
+      "warnings_generated": 6,
+      "warning_types": [
+        "Academic Probation",
+        "High Credit Deficit",
+        "Severe Attendance",
+        "Very Low Engagement",
+        "Financial Aid Risk",
+        "First-Gen Support Needed"
+      ],
+      "risk_scores": {
+        "overall": 0.5125000000000001,
+        "academic": 0.46,
+        "engagement": 0.47500000000000003,
+        "financial": 0.7
+      },
+      "timestamp": "2025-11-18T13:49:02.276806"
+    }
+  ]
+}

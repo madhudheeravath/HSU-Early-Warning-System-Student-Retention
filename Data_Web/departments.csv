@@ -1,0 +1,11 @@
+DepartmentID,DepartmentCode,DepartmentName,College,DepartmentHead,ContactEmail
+1,CS,Computer Science,Engineering & Technology,Allison Hill,cs@hsu.edu
+2,MATH,Mathematics,Science,Noah Rhodes,math@hsu.edu
+3,ENG,English,Liberal Arts,Angie Henderson,eng@hsu.edu
+4,BIO,Biology,Science,Daniel Wagner,bio@hsu.edu
+5,BUS,Business,Business,Cristian Santos,bus@hsu.edu
+6,PSYCH,Psychology,Social Sciences,Connie Lawrence,psych@hsu.edu
+7,HIST,History,Liberal Arts,Abigail Shaffer,hist@hsu.edu
+8,CHEM,Chemistry,Science,Gina Moore,chem@hsu.edu
+9,PHYS,Physics,Science,Gabrielle Davis,phys@hsu.edu
+10,ECON,Economics,Business,Ryan Munoz,econ@hsu.edu

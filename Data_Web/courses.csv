@@ -1,0 +1,158 @@
+CourseID,CourseCode,CourseName,CourseDescription,CreditHours,Level,DepartmentID
+1,CS100,Special Topics in Computer Science,Example guy paper look.,3,Graduate,1
+2,MATH101,Introduction to Mathematics,Career son half mouth. Plant figure single also. Game recently eight old spend call.,3,Introductory,2
+3,ENG102,Intermediate English,Local appear oil why. Recently economic sport candidate. I be yard she test law car behind.,3,Introductory,3
+4,BIO103,Theoretical Biology,Mention bag much day. Staff cover after authority small call believe.,4,Advanced,4
+5,BUS104,Advanced Business,Media buy bank animal water.,4,Advanced,5
+6,PSYCH105,Special Topics in Psychology,Black middle now child house director recent. Couple describe seven kind.,3,Introductory,6
+7,HIST106,Advanced History,Stay employee usually begin. Force what test specific most effect available.,3,Intermediate,7
+8,CHEM107,Advanced Chemistry,Lay product rather themselves price tend sign. Economy person itself item stand.,3,Introductory,8
+9,PHYS108,Applied Physics,Probably fear shoulder commercial worry street walk.,3,Intermediate,9
+10,ECON109,Advanced Economics,Second pass mouth agree decision discuss gas.,3,Introductory,10
+11,CS110,Theoretical Computer Science,Your rock again hundred offer. Car standard oil wind. Program affect to week item.,4,Graduate,1
+12,MATH111,Special Topics in Mathematics,Perhaps without deep sure hospital always set. Radio authority western put others.,4,Graduate,2
+13,ENG112,Intermediate English,Run need be town huge. Course couple property note young half.,4,Advanced,3
+14,BIO113,Theoretical Biology,"Remember lawyer perform ready.
+Three ever doctor turn cup lose. Radio fund billion catch.",4,Advanced,4
+15,BUS114,Theoretical Business,Amount cultural whether attention. Street affect court behind city.,3,Graduate,5
+16,PSYCH115,Theoretical Psychology,Baby you offer. Ground by development forget ahead deal field employee.,4,Advanced,6
+18,CHEM117,Special Topics in Chemistry,Eye pass onto point security rise help. Edge look significant quality.,3,Graduate,8
+19,PHYS118,Intermediate Physics,Trouble send always establish. Next we house about.,4,Introductory,9
+20,ECON119,Theoretical Economics,Member research heart year parent method. Measure trouble west lawyer hear.,4,Introductory,10
+21,CS120,Introduction to Computer Science,Building live adult toward. Budget speak baby.,3,Intermediate,1
+22,MATH121,Advanced Mathematics,Organization office walk until. Win prove recently time. Fill speech class nearly think.,4,Introductory,2
+23,ENG122,Applied English,Others firm join process approach line not fine. Director work among where.,3,Intermediate,3
+24,BIO123,Theoretical Biology,Window himself single front become operation meeting. Prevent serve lose save better.,4,Graduate,4
+25,BUS124,Introduction to Business,Look pay read rest hold carry. Movie relationship avoid ever wife idea.,4,Introductory,5
+26,PSYCH125,Applied Psychology,Maybe concern increase place color. Style break now. In shoulder stand film almost.,4,Introductory,6
+27,HIST126,Theoretical History,Improve still six individual among both instead. Game action election main politics during.,4,Graduate,7
+28,CHEM127,Applied Chemistry,Others as truth military. Grow until which option.,3,Intermediate,8
+29,PHYS128,Applied Physics,Find stock tend PM answer. Store once population.,3,Introductory,9
+30,ECON129,Special Topics in Economics,Especially life store necessary wife politics compare. International billion subject.,4,Introductory,10
+31,CS130,Advanced Computer Science,Structure site do five its fight.,4,Graduate,1
+32,MATH131,Introduction to Mathematics,Themselves type fear finally Congress. Result art open worry. Wife professor score and account.,4,Introductory,2
+33,ENG132,Theoretical English,Plant art nearly she government. Nice buy each analysis group seek.,4,Intermediate,3
+34,BIO133,Theoretical Biology,Street state can sister character. Save personal something from.,3,Graduate,4
+35,BUS134,Introduction to Business,Society every bill individual water. Sense send sense history thought situation.,4,Advanced,5
+36,PSYCH135,Advanced Psychology,Partner security really realize citizen. Toward brother campaign choose.,4,Introductory,6
+37,HIST136,Introduction to History,Executive among movie wear kind number. Watch research bring central determine Mrs early lose.,4,Intermediate,7
+38,CHEM137,Intermediate Chemistry,Under building cover trial writer beyond. National could particular first Congress election set.,4,Intermediate,8
+39,PHYS138,Advanced Physics,"Campaign everything bring door.
+Occur including success. Record very shake spend structure respond.",3,Intermediate,9
+40,ECON139,Theoretical Economics,Half stand positive. Note prevent stage after effort describe take.,3,Introductory,10
+41,CS140,Applied Computer Science,Go change adult. Check forward very heavy.,3,Advanced,1
+42,MATH141,Introduction to Mathematics,Light charge recognize. Property really sell. East explain rich.,4,Advanced,2
+43,ENG142,Introduction to English,Yeah article property indicate model. Whose you ball leader.,3,Graduate,3
+44,BIO143,Special Topics in Biology,Contain right position. Sing food budget newspaper face left.,3,Graduate,4
+45,BUS144,Applied Business,Boy list responsibility. Entire a since. Worry lot focus mother while.,3,Intermediate,5
+46,PSYCH145,Advanced Psychology,"Structure push condition beautiful stay common scientist.
+Claim last win environment.",3,Advanced,6
+47,HIST146,Introduction to History,Believe money movement role. Central term news child ability.,4,Introductory,7
+48,CHEM147,Special Topics in Chemistry,Blue left around want answer. Reflect key every picture her hold.,3,Intermediate,8
+49,PHYS148,Theoretical Physics,It chance large spring professional dream. Cover follow face religious.,4,Graduate,9
+50,ECON149,Introduction to Economics,Prepare special real option. Age only allow author attorney number. Than thousand black cover.,3,Advanced,10
+51,CS150,Advanced Computer Science,Along decide war bank focus. Own very heart peace far player space.,3,Intermediate,1
+52,MATH151,Introduction to Mathematics,Lose cause school benefit ten surface. Reduce plant back since local police none.,4,Intermediate,2
+53,ENG152,Applied English,Relate throw force word energy. Range resource player others.,4,Intermediate,3
+54,BIO153,Introduction to Biology,Food product these form.,4,Introductory,4
+55,BUS154,Special Topics in Business,Degree affect lawyer administration news collection.,3,Graduate,5
+56,PSYCH155,Advanced Psychology,Seat enjoy best sometimes style sometimes easy. Third campaign recently even.,3,Intermediate,6
+57,HIST156,Special Topics in History,Plan national election possible box partner class industry. Cut center prevent.,3,Advanced,7
+58,CHEM157,Advanced Chemistry,"Decade few imagine purpose. Phone yet former sport.
+Bring lose throw.",4,Advanced,8
+59,PHYS158,Introduction to Physics,Product thank up surface quickly. Fall head million sometimes concern tell.,3,Intermediate,9
+60,ECON159,Advanced Economics,Here can miss be resource. Bill data apply see. Agency color time indicate trouble energy.,4,Introductory,10
+61,CS160,Theoretical Computer Science,Pattern place soon bring understand during simply. Child play almost. Any east budget mind.,3,Intermediate,1
+62,MATH161,Special Topics in Mathematics,Happen ask staff five.,3,Graduate,2
+63,ENG162,Applied English,Produce look her past particular true. Minute power goal doctor.,4,Graduate,3
+64,BIO163,Theoretical Biology,Mouth ahead Mrs adult join do ever.,4,Introductory,4
+65,BUS164,Introduction to Business,Available kitchen tell learn toward view room.,4,Introductory,5
+66,PSYCH165,Applied Psychology,Radio rule think article south note. Quite radio agent stock.,4,Intermediate,6
+67,HIST166,Advanced History,Chair participant crime. Degree cup question record.,4,Introductory,7
+68,CHEM167,Special Topics in Chemistry,Decide something man visit table economic.,3,Introductory,8
+69,PHYS168,Applied Physics,Protect trial well prepare left once organization. Participant case specific onto poor loss style.,4,Introductory,9
+70,ECON169,Special Topics in Economics,Measure rather defense rate series next their. Form sport top add whether hope language teacher.,3,Graduate,10
+71,CS170,Special Topics in Computer Science,South many sit travel. Value sister view. Hand happen every itself piece lawyer must.,4,Intermediate,1
+72,MATH171,Intermediate Mathematics,Off yourself say expert. Beat value black choose.,4,Graduate,2
+73,ENG172,Special Topics in English,Similar speech player firm identify. Option behind writer writer share.,3,Introductory,3
+74,BIO173,Intermediate Biology,Believe field court. Could nothing not air unit apply to. Know however get relationship.,4,Introductory,4
+75,BUS174,Special Topics in Business,Anything watch budget how until.,3,Graduate,5
+76,PSYCH175,Advanced Psychology,Model eye international. Many analysis worry production push skill people.,4,Intermediate,6
+77,HIST176,Applied History,Politics score forward while. Never arm begin until inside.,3,Graduate,7
+79,PHYS178,Applied Physics,Somebody affect staff sport doctor walk phone. Official kind similar service outside.,3,Advanced,9
+80,ECON179,Applied Economics,Enter position skill suffer manage. Movie build green story play find.,3,Introductory,10
+81,CS180,Special Topics in Computer Science,Box like administration upon than.,3,Intermediate,1
+82,MATH181,Applied Mathematics,Condition under may reason. Everybody impact at early. Some voice how carry follow.,3,Advanced,2
+83,ENG182,Special Topics in English,Factor father tax business major. Material reach shake executive environment book.,4,Introductory,3
+84,BIO183,Theoretical Biology,Pressure item together Republican chance financial about describe.,4,Intermediate,4
+85,BUS184,Special Topics in Business,"Important cover movement news also four a.
+However human local above.",4,Intermediate,5
+86,PSYCH185,Intermediate Psychology,Rise surface will wrong. Again beat blue if well difficult. Similar sing account.,4,Advanced,6
+87,HIST186,Advanced History,Second choose against major ten all.,3,Graduate,7
+88,CHEM187,Special Topics in Chemistry,Stop around travel always open suggest.,4,Advanced,8
+89,PHYS188,Advanced Physics,Poor amount teach expert. Treat off walk prepare use huge more.,3,Introductory,9
+90,ECON189,Advanced Economics,Decision describe job window after. Party political western heart food. Production car fear.,4,Introductory,10
+91,CS190,Applied Computer Science,Couple oil game table every continue. Husband world movement within.,4,Introductory,1
+92,MATH191,Special Topics in Mathematics,Strategy guy west explain no though. According nice medical cup same.,3,Advanced,2
+93,ENG192,Intermediate English,Store best near music. Paper claim can quickly.,3,Advanced,3
+94,BIO193,Theoretical Biology,Begin treatment bar bit that water. Leader so despite likely. Radio career sometimes student.,4,Intermediate,4
+95,BUS194,Advanced Business,World never kitchen chance draw interest area.,4,Intermediate,5
+96,PSYCH195,Special Topics in Psychology,Catch decide that compare prepare leader. Ball wonder second road.,4,Introductory,6
+97,HIST196,Advanced History,Although without require ball. Activity nature across paper page want research.,3,Intermediate,7
+98,CHEM197,Introduction to Chemistry,Analysis all left. Sound professor four generation special interesting.,4,Graduate,8
+99,PHYS198,Special Topics in Physics,Skin standard chair crime feel dark north. Career upon season hospital.,4,Advanced,9
+100,ECON199,Special Topics in Economics,Poor usually since officer likely fly entire hundred. Style base bad rule.,3,Intermediate,10
+101,CS200,Intermediate Computer Science,Of pay toward serious. Finally yeah agree attorney. Act result recognize choice.,4,Advanced,1
+102,MATH201,Applied Mathematics,Force particularly prove even night claim conference.,3,Advanced,2
+103,ENG202,Theoretical English,Cup peace four answer boy. Within notice place for fight rock.,3,Intermediate,3
+104,BIO203,Special Topics in Biology,Part character determine claim challenge. Movement look body beat movie.,4,Advanced,4
+105,BUS204,Special Topics in Business,Ten me conference new total meet. Guy sometimes site. Total author success Democrat.,4,Intermediate,5
+106,PSYCH205,Theoretical Psychology,"Own bag design bill hold. Family role rise image huge about.
+Direction your yeah dream small.",4,Intermediate,6
+107,HIST206,Applied History,Single fast soldier fly. Leg call market up who artist. Ground claim human decide station drive.,3,Intermediate,7
+108,CHEM207,Intermediate Chemistry,Nearly all expect. At entire fine opportunity.,4,Intermediate,8
+109,PHYS208,Advanced Physics,Forward imagine small on. Could tree exactly to.,3,Introductory,9
+110,ECON209,Applied Economics,Material to sign still peace choose. Right across yard task today. Mouth exist me key.,3,Intermediate,10
+111,CS210,Applied Computer Science,Final well successful. Born like Congress out federal.,3,Advanced,1
+112,MATH211,Special Topics in Mathematics,Home sit policy trade strong majority dinner. Sense thus final go glass.,3,Introductory,2
+113,ENG212,Introduction to English,Minute because scientist enjoy. Organization team contain lay executive our name.,3,Introductory,3
+114,BIO213,Intermediate Biology,Firm huge thought on.,3,Graduate,4
+115,BUS214,Theoretical Business,Section event property whole recent. Arm operation maybe player cultural everybody.,3,Intermediate,5
+116,PSYCH215,Special Topics in Psychology,Tend citizen tree enter. Have population even guess run space mission.,3,Introductory,6
+117,HIST216,Advanced History,Accept address sound push another enough identify. Down poor set.,3,Introductory,7
+118,CHEM217,Advanced Chemistry,Deep floor fine ago Republican agreement. Recently his stand thousand what try.,4,Graduate,8
+119,PHYS218,Applied Physics,First free suggest star hospital. Rather back forget whole view soldier.,4,Graduate,9
+120,ECON219,Special Topics in Economics,Class strong us network attack soldier which.,3,Intermediate,10
+121,CS220,Theoretical Computer Science,Phone her mean enter effect society. Fly study thousand culture heart.,4,Introductory,1
+122,MATH221,Introduction to Mathematics,Follow air wide. Player kind dark certainly. Marriage serious fight who many.,4,Advanced,2
+123,ENG222,Intermediate English,Eight power just. Level water down deep thank big natural. Commercial would apply threat by name.,3,Introductory,3
+124,BIO223,Theoretical Biology,Else research begin house wide food. Part point investment heavy someone manager friend action.,4,Graduate,4
+125,BUS224,Introduction to Business,Blood rise simply expert. Space have sit sign actually church data eat. Short appear write nor.,4,Advanced,5
+126,PSYCH225,Intermediate Psychology,Ten economy which born support. Yes professional major matter walk rule.,4,Graduate,6
+127,HIST226,Advanced History,American hair establish. Teach minute community cause as.,4,Graduate,7
+128,CHEM227,Special Topics in Chemistry,Address serve easy bring seem democratic. Painting green think. Theory computer seem record nor.,4,Graduate,8
+129,PHYS228,Theoretical Physics,Campaign according they idea day there seat shake. Reason growth first couple.,4,Introductory,9
+130,ECON229,Intermediate Economics,"Ago feel the real process score reach.
+Them then role. Your guess war stay might.",4,Advanced,10
+131,CS230,Theoretical Computer Science,Effect central question take course source. Treat cell leave card third whether once.,3,Advanced,1
+132,MATH231,Introduction to Mathematics,"Like resource per will.
+Edge sister bit agree. Large growth property book foot show.",3,Intermediate,2
+133,ENG232,Intermediate English,Green have decade prepare successful. Tax call member decade would technology.,4,Graduate,3
+134,BIO233,Theoretical Biology,Change morning show ask oil. Significant TV recent night sort it.,4,Graduate,4
+135,BUS234,Intermediate Business,Say friend Democrat support table economic. Data growth impact write senior green notice.,4,Intermediate,5
+136,PSYCH235,Special Topics in Psychology,Responsibility single against best. Wrong weight technology direction conference.,3,Introductory,6
+137,HIST236,Special Topics in History,Provide serious sign carry check staff both. Community specific day ok.,3,Advanced,7
+138,CHEM237,Theoretical Chemistry,Board professor employee unit protect. Lose modern page heavy picture. Mr series fine too reveal.,4,Intermediate,8
+139,PHYS238,Special Topics in Physics,Country low society statement forward marriage point. Name family join according trial manager kid.,3,Introductory,9
+140,ECON239,Advanced Economics,"Some professional real. Church leave reduce choose though seek method.
+Eat court news yeah.",4,Graduate,10
+141,CS240,Introduction to Computer Science,Risk house nature program. Respond inside to often above voice people because.,3,Intermediate,1
+142,MATH241,Advanced Mathematics,Lot five often Republican. Include pick resource science.,3,Graduate,2
+143,ENG242,Intermediate English,Major as thus commercial citizen above fight none. So phone draw half man four. Turn form ready.,4,Graduate,3
+144,BIO243,Applied Biology,Both might cold camera.,4,Intermediate,4
+145,BUS244,Advanced Business,Check general specific as these top bar. Impact sense former apply.,3,Advanced,5
+146,PSYCH245,Applied Psychology,Do positive democratic assume various usually the election. Pretty box over two value reflect.,3,Intermediate,6
+147,HIST246,Theoretical History,Should another white discover boy. Series unit treatment western staff large.,3,Advanced,7
+148,CHEM247,Advanced Chemistry,Available worker beat person suffer lot. Argue in group partner member.,3,Advanced,8
+149,PHYS248,Intermediate Physics,Along friend action fast. Plan ever dream hot happy.,3,Graduate,9
+150,ECON249,Theoretical Economics,Month since until. Something much standard have where most court.,3,Advanced,10
