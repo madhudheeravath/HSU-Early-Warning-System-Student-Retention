@@ -23,7 +23,7 @@ st.set_page_config(
     page_title="HSU Early Warning System | Student Success Platform",
     page_icon="🎓",
     layout="wide",
-    initial_sidebar_state="collapsed",
+    initial_sidebar_state="expanded",  # Changed from collapsed to expanded - fixes navigation visibility
     menu_items={
         'Get Help': 'https://hsu.edu/support',
         'Report a bug': 'https://hsu.edu/feedback',
@@ -34,20 +34,9 @@ st.set_page_config(
 # Apply premium styling
 apply_premium_styling()
 
-# Hide sidebar completely on landing page ONLY
-# This CSS is scoped to prevent affecting other pages
-st.markdown("""
-    <style>
-        /* Only hide sidebar on the main landing page */
-        [data-testid="stSidebar"][aria-label="app navigation"] {
-            display: none !important;
-        }
-        /* Hide the collapse/expand button on landing page */
-        section[data-testid="stSidebar"] + div > button[kind="header"] {
-            display: none !important;
-        }
-    </style>
-""", unsafe_allow_html=True)
+# Note: Removed CSS that was hiding sidebar globally on deployed version
+# The sidebar will now show on landing page, but this is better than
+# hiding navigation on all other pages
 
 # Enhanced Premium CSS for Landing Page
 st.markdown("""
