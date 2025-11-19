@@ -62,10 +62,9 @@ admin_portal_css = """
 st.markdown(f"""
     <style>
     /* Hide public pages and Student Portal */
-    [data-testid="stSidebarNav"] li:has(a[href*="app"]),
-    [data-testid="stSidebarNav"] li:has(a[href*="SignUp"]),
-    [data-testid="stSidebarNav"] li:has(a[href*="Login"]),
-    [data-testid="stSidebarNav"] li:has(a[href*="Student_Portal"]) {{
+    [data-testid="stSidebarNav"] li:has(a[href$="/SignUp"]),
+    [data-testid="stSidebarNav"] li:has(a[href$="/Login"]),
+    [data-testid="stSidebarNav"] li:has(a[href$="/Student_Portal"]) {{
         display: none;
     }}
     {admin_portal_css}
