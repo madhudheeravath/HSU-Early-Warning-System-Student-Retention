@@ -36,7 +36,8 @@ from datetime import datetime, timedelta
 st.set_page_config(
     page_title="Advisor Dashboard",
     page_icon="🏠",
-    layout="wide"
+    layout="wide",
+    initial_sidebar_state="expanded"  # Ensure sidebar is visible by default
 )
 
 # Check authentication FIRST
@@ -889,14 +890,7 @@ with viz_col4:
                     [1, '#DC2626']
                 ],
                 line=dict(color='white', width=2),
-                showscale=True,
-                colorbar=dict(
-                    title="Risk %",
-                    titleside="right",
-                    tickmode="linear",
-                    tick0=0,
-                    dtick=25
-                )
+                showscale=False  # Changed from True to False to avoid colorbar issues
             ),
             text=[f'{v:.1f}%' for v in risk_factors.values()],
             textposition='outside',
@@ -950,13 +944,7 @@ if 'Classification' in filtered_df.columns and len(filtered_df) > 0:
         texttemplate='<b>%{text}</b>',
         textfont={"size": 14},
         hovertemplate='<b>%{y}</b><br>Risk: %{x}<br>Students: %{z}<extra></extra>',
-        colorbar=dict(
-            title="Student Count",
-            titleside="right",
-            tickmode="linear",
-            tick0=0,
-            dtick=5
-        )
+        showscale=False  # Disabled colorbar to avoid Python 3.13 compatibility issues
     ))
     
     fig_heatmap.update_layout(
