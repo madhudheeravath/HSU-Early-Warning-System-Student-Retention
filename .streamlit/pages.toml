@@ -1,0 +1,5 @@
+# Force Streamlit to recognize all pages
+# This helps ensure page navigation shows up
+
+[pages]
+show_pages = true

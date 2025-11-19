@@ -1,5 +1,5 @@
 """
-HSU Early Warning System - Premium Landing Page
+HSU Early Warning System - Premium Landing Page v3.0.1
 ===============================================
 Professional welcome page with premium design
 
