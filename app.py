@@ -34,14 +34,17 @@ st.set_page_config(
 # Apply premium styling
 apply_premium_styling()
 
-# Hide sidebar completely on landing page
+# Hide sidebar completely on landing page ONLY
+# This CSS is scoped to prevent affecting other pages
 st.markdown("""
     <style>
-        [data-testid="stSidebar"] {
-            display: none;
+        /* Only hide sidebar on the main landing page */
+        [data-testid="stSidebar"][aria-label="app navigation"] {
+            display: none !important;
         }
-        [data-testid="collapsedControl"] {
-            display: none;
+        /* Hide the collapse/expand button on landing page */
+        section[data-testid="stSidebar"] + div > button[kind="header"] {
+            display: none !important;
         }
     </style>
 """, unsafe_allow_html=True)
